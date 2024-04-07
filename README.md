@@ -63,7 +63,7 @@ print("--------------------------------------------------------------")
 
 ## Output :
 
-![alt text](<Multiple Server-1.png>)
+![alt text](<Multiple Server.png>)
 
 ## Result : 
 
